@@ -4,3 +4,4 @@ sqlparse
 tzdata
 whitenoise
 pillow
+gunicorn
